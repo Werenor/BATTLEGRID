@@ -1,0 +1,17 @@
+# Local game saves and playtest archives
+/sav/
+/logs/
+*.sav
+*.log
+
+# Dependencies and local tools
+/node_modules/
+/.idea/
+/.vscode/
+/.DS_Store
+Thumbs.db
+
+# Local credentials and environment overrides
+.env
+.env.*
+!.env.example

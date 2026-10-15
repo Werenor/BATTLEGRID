@@ -1,0 +1,9 @@
+{
+  "name": "battlegrid",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Experimental 8x8 naval guessing game for eraAzurLane",
+  "scripts": {
+    "test": "node tests/run.js"
+  }
+}

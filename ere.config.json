@@ -1,0 +1,22 @@
+{
+  "system": {
+    "_replace": true,
+    "collapseBlankLines": false,
+    "disableClear": false,
+    "extendedCharaTables": [],
+    "hideUserInput": true,
+    "resource": false,
+    "saveCompressedData": false,
+    "saveFiles": 10,
+    "static": "csv"
+  },
+  "window": {
+    "audio": 100,
+    "autoMax": false,
+    "fontSize": 16,
+    "height": 900,
+    "limit": 512,
+    "orientation": 1,
+    "width": 1000
+  }
+}
